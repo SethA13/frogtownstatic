@@ -9,6 +9,8 @@
       packages = with pkgs; [
         # insert desired packages here
         tmux
+        nodejs_22
+
       ];
     };
   };
